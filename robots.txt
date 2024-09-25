@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ezled.github.io/xRS/sitemap.xRS.gz
